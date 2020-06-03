@@ -4,4 +4,4 @@ The program also allows the user to enter up to 20 ingredients that they have an
 which recipe, and it will check to see if you have all of the necesary ingredients. 
 This program contains 3 files, 2 which are my project, and one is a tester file that shows that the class works. 
 Any issues running the program, I coded this on codeHS.com so you can use this link https://codehs.com/share/lets_try_this_again_IXfjPf
-(Copy and paste, the link is not embedded)
+
